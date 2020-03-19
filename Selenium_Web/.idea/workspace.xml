@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e3033d0-eb3c-48cc-8b47-917c131707f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TNCf45f97xOiB3XZU29rYBtLG1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Python_X\Youboy_Web\test_case\Youboy_element" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_main">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="Youboy_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Youboy_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Youboy_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="Youboy_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_news.TestCase.test_01" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Youboy_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case/Youboy_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_news.TestCase.test_01&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_news.TestCase.test_02" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Youboy_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case/Youboy_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_news.TestCase.test_02&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_news.TestCase.test_03" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Youboy_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case/Youboy_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_news.TestCase.test_03&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_search.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Youboy_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case/Youboy_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/Youboy_case/test_search.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Youboy_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Youboy_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="Youboy_Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run_main" />
+      <item itemvalue="Python tests.Unittests in test_search.py" />
+      <item itemvalue="Python tests.Unittests for test_news.TestCase.test_01" />
+      <item itemvalue="Python tests.Unittests for test_news.TestCase.test_02" />
+      <item itemvalue="Python tests.Unittests for test_news.TestCase.test_03" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_main" />
+        <item itemvalue="Python tests.Unittests in test_search.py" />
+        <item itemvalue="Python tests.Unittests for test_news.TestCase.test_03" />
+        <item itemvalue="Python tests.Unittests for test_news.TestCase.test_02" />
+        <item itemvalue="Python tests.Unittests for test_news.TestCase.test_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e3033d0-eb3c-48cc-8b47-917c131707f5" name="Default Changelist" comment="" />
+      <created>1573291276594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573291276594</updated>
+      <workItem from="1573291303213" duration="43000" />
+      <workItem from="1573291354878" duration="1196000" />
+      <workItem from="1573560712516" duration="554000" />
+      <workItem from="1573561305278" duration="916000" />
+      <workItem from="1573608893969" duration="5906000" />
+      <workItem from="1573734395743" duration="529000" />
+      <workItem from="1573779845027" duration="991000" />
+      <workItem from="1573798457734" duration="624000" />
+      <workItem from="1574051211275" duration="4335000" />
+      <workItem from="1574142647397" duration="5638000" />
+      <workItem from="1574152800627" duration="3561000" />
+      <workItem from="1574212483286" duration="205000" />
+      <workItem from="1574213750349" duration="1808000" />
+      <workItem from="1574215591945" duration="6695000" />
+      <workItem from="1574385351494" duration="64000" />
+      <workItem from="1574385518604" duration="1944000" />
+      <workItem from="1574646145098" duration="8243000" />
+      <workItem from="1574669396139" duration="4142000" />
+      <workItem from="1574675265087" duration="883000" />
+      <workItem from="1574738367481" duration="2457000" />
+      <workItem from="1574820395921" duration="7935000" />
+      <workItem from="1574848859572" duration="791000" />
+      <workItem from="1574991335846" duration="3022000" />
+      <workItem from="1575080710776" duration="3407000" />
+      <workItem from="1575251375126" duration="3217000" />
+      <workItem from="1575346057353" duration="2561000" />
+      <workItem from="1576120243237" duration="696000" />
+      <workItem from="1576121528410" duration="2304000" />
+      <workItem from="1576200115074" duration="3097000" />
+      <workItem from="1577150106061" duration="4000" />
+      <workItem from="1577150203599" duration="410000" />
+      <workItem from="1577150661534" duration="1076000" />
+      <workItem from="1577155655536" duration="6000" />
+      <workItem from="1577155676870" duration="11000" />
+      <workItem from="1577155689695" duration="5151000" />
+      <workItem from="1577238649613" duration="601000" />
+      <workItem from="1577324497754" duration="848000" />
+      <workItem from="1577325362406" duration="8203000" />
+      <workItem from="1577670187304" duration="3160000" />
+      <workItem from="1577754642182" duration="5222000" />
+      <workItem from="1577927459469" duration="4276000" />
+      <workItem from="1578013806621" duration="2814000" />
+      <workItem from="1578274853729" duration="5191000" />
+      <workItem from="1578359188407" duration="991000" />
+      <workItem from="1578367037335" duration="5406000" />
+      <workItem from="1578445721834" duration="5174000" />
+      <workItem from="1578476784921" duration="643000" />
+      <workItem from="1578531977199" duration="1213000" />
+      <workItem from="1578618377491" duration="488000" />
+      <workItem from="1578619004806" duration="1268000" />
+      <workItem from="1578620313342" duration="617000" />
+      <workItem from="1578648272185" duration="39000" />
+      <workItem from="1578879828923" duration="732000" />
+      <workItem from="1578883059060" duration="28000" />
+      <workItem from="1578883109378" duration="19000" />
+      <workItem from="1578883145040" duration="8388000" />
+      <workItem from="1578964247969" duration="5828000" />
+      <workItem from="1579050379013" duration="5763000" />
+      <workItem from="1579136929085" duration="7473000" />
+      <workItem from="1579223403096" duration="4226000" />
+      <workItem from="1579250417289" duration="2433000" />
+      <workItem from="1579406742277" duration="5320000" />
+      <workItem from="1579482321934" duration="647000" />
+      <workItem from="1582537510985" duration="86000" />
+      <workItem from="1582593587797" duration="1714000" />
+      <workItem from="1582770422343" duration="2466000" />
+      <workItem from="1583921197223" duration="611000" />
+      <workItem from="1584325495595" duration="6412000" />
+      <workItem from="1584343502956" duration="2101000" />
+      <workItem from="1584493543749" duration="6233000" />
+      <workItem from="1584582051735" duration="2317000" />
+      <workItem from="1584608468059" duration="347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1584343704814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1584343704814" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577959156673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577959156673" />
+    <state x="477" y="37" key="#run_main" timestamp="1578445749169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="37" key="#run_main/0.0.1536.824@0.0.1536.824" timestamp="1578445749169" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584608352607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584608352607" />
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1584525606931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584525606931" />
+    <state width="1340" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576231402374" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1584525606931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584525606931" />
+    <state width="1340" height="253" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576231402374" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1584525606931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584525606931" />
+    <state width="1340" height="253" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576231402374" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1584525606931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584525606931" />
+    <state width="1340" height="253" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576231402374" />
+    <state x="369" y="109" key="SettingsEditor" timestamp="1579148629011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="369" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579148629011" />
+    <state x="461" y="155" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576130758781" />
+    <state x="512" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1578647936630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="275" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578647936630" />
+    <state x="640" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577155230389" />
+    <state x="361" y="71" key="scopes" timestamp="1578648540454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="scopes/0.0.1536.824@0.0.1536.824" timestamp="1578648540454" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Youboy_Web$Unittests_for_test_news_TestCase_test_02.coverage" NAME="Unittests for test_news.TestCase.test_02 Coverage Results" MODIFIED="1584327084988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/Youboy_case" />
+    <SUITE FILE_PATH="coverage/Youboy_Web$Unittests_in_test_search_py.coverage" NAME="Unittests in test_search.py Coverage Results" MODIFIED="1584330105900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/Youboy_case" />
+    <SUITE FILE_PATH="coverage/Youboy_Web$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1582770487782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/Youboy_case" />
+    <SUITE FILE_PATH="coverage/Youboy_Web$Unittests_for_test_search_TestCase_test_01.coverage" NAME="Unittests for test_search.TestCase.test_01 Coverage Results" MODIFIED="1584326353388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/Youboy_case" />
+    <SUITE FILE_PATH="coverage/Youboy_Web$Unittests_for_test_news_TestCase_test_01.coverage" NAME="Unittests for test_news.TestCase.test_01 Coverage Results" MODIFIED="1584326899441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/Youboy_case" />
+    <SUITE FILE_PATH="coverage/Youboy_Web$Unittests_for_test_news_TestCase_test_03.coverage" NAME="Unittests for test_news.TestCase.test_03 Coverage Results" MODIFIED="1584327752370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/Youboy_case" />
+    <SUITE FILE_PATH="coverage/Youboy_Web$Unittests_for_test_login_TestCase_test_01.coverage" NAME="Unittests for test_login.TestCase.test_01 Coverage Results" MODIFIED="1584326249370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/Youboy_case" />
+    <SUITE FILE_PATH="coverage/Youboy_Web$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1584493568618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
